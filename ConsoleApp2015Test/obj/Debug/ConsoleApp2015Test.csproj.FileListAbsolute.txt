@@ -1,0 +1,11 @@
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\bin\Debug\ConsoleApp2015Test.dll
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\bin\Debug\ConsoleApp2015Test.pdb
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\obj\Debug\ConsoleApp2015Test.csprojResolveAssemblyReference.cache
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\obj\Debug\ConsoleApp2015Test.dll
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\obj\Debug\ConsoleApp2015Test.pdb
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\bin\Debug\ConsoleApp2015.exe
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\bin\Debug\ConsoleApp2015.pdb
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\bin\Debug\ConsoleApp2015ServiceLayer.dll
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015Test\bin\Debug\ConsoleApp2015ServiceLayer.pdb

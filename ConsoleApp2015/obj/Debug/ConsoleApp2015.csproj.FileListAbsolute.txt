@@ -1,0 +1,11 @@
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\bin\Debug\ConsoleApp2015.exe.config
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\bin\Debug\ConsoleApp2015.exe
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\bin\Debug\ConsoleApp2015.pdb
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\obj\Debug\ConsoleApp2015.csprojResolveAssemblyReference.cache
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\obj\Debug\ConsoleApp2015.Form1.resources
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\obj\Debug\ConsoleApp2015.Properties.Resources.resources
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\obj\Debug\ConsoleApp2015.csproj.GenerateResource.Cache
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\obj\Debug\ConsoleApp2015.exe
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\obj\Debug\ConsoleApp2015.pdb
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\bin\Debug\ConsoleApp2015ServiceLayer.dll
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015\bin\Debug\ConsoleApp2015ServiceLayer.pdb

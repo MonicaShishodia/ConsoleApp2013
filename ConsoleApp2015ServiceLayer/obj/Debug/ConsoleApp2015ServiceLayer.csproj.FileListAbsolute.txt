@@ -1,0 +1,5 @@
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015ServiceLayer\bin\Debug\ConsoleApp2015ServiceLayer.dll
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015ServiceLayer\bin\Debug\ConsoleApp2015ServiceLayer.pdb
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015ServiceLayer\obj\Debug\ConsoleApp2015ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015ServiceLayer\obj\Debug\ConsoleApp2015ServiceLayer.dll
+C:\Work\Test Solutions\ConsoleApp2015\ConsoleApp2015ServiceLayer\obj\Debug\ConsoleApp2015ServiceLayer.pdb
