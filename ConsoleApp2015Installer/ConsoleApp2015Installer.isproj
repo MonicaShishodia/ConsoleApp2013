@@ -27,7 +27,7 @@
 			<TargetPath>My Test Exe.exe</TargetPath>
 		</TaggedOutputs> -->
 	</ItemGroup>
-	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2015Limited\InstallShield.targets"/>
+	<Import Project="Dummy.targets" condition="!Exists(FileA.targets) And !Exists(FileB.targets)"/>
 	<ItemGroup>
 		<ProjectReference Include="..\ConsoleApp2015\ConsoleApp2015.csproj">
 			<Name>ConsoleApp2015</Name>
