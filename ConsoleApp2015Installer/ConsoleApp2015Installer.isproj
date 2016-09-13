@@ -27,7 +27,7 @@
 			<TargetPath>My Test Exe.exe</TargetPath>
 		</TaggedOutputs> -->
 	</ItemGroup>
-	<Import Project="Dummy.targets"/>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2015Limited\InstallShield.targets"/>
 	<ItemGroup>
 		<ProjectReference Include="..\ConsoleApp2015\ConsoleApp2015.csproj">
 			<Name>ConsoleApp2015</Name>
